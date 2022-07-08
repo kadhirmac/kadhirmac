@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kadhiravan
 - 👀 I’m interested in ...coding,developing,etc
-- 🌱 I’m currently learning ...3java,mongodb,springboot,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently  working...Corejava, SpringBoot, Angular, Sql, mongodb,springboot,
+- 💞️ I’m learning new tech like AI, ML, DataScience, etc ...
+- 📚 I completed Certification of AWS Certified Cloud and Agile Development
+
 
 <!---
 kadhirmac/kadhirmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
